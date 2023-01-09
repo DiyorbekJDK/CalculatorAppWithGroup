@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+                                   if(life == coding){
+                                               try {
+                                                   toCode
+                                               }catch (){
+                                                   learnCoding || orDoOtherHardWork
+                                               }
+                                           }
